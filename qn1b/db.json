@@ -1,0 +1,10 @@
+{
+    "name":"shivam",
+    "age":30,
+    "email":"johny@gmail.com",
+    "address":{
+        "city":"patna",
+        "country":"india"
+    }
+
+}
